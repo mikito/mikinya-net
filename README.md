@@ -6,7 +6,7 @@ https://mikinya.net/
 - Host
   - [GitHub Pages](https://github.com/mikito/mikinya-net)
 - Dependencies 
-  - [Jekyll](http://jekyllrb-ja.github.io/)
+  - [Jekyll](https://jekyllrb-ja.github.io/)
   - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
 ## Memo
